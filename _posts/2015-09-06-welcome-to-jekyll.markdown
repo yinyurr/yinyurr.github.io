@@ -5,6 +5,7 @@ subtitle: "Feel home!"
 date:   2015-09-06 23:34:01
 categories: [design, tool]
 ---
+https://github.com/yinyurr/HerLittleMonsterPri/blob/9a2e0c153feea24f4639ec69d789ea70677deff5/%E6%8E%A2%E7%B4%A2%E8%80%85%E5%8F%B7%E3%80%87%E4%B8%80%20-%20%E8%8B%92%E8%9A%BA.txt
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
